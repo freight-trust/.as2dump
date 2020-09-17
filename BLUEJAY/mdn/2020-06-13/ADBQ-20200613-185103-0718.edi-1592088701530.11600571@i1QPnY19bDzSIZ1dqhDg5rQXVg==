@@ -1,0 +1,24 @@
+Headers:
+Date: Sat, 13 Jun 2020 22:51:41 +0000
+From: as2@freighttrust.com
+Message-ID: <OPENAS2-13062020225141+0000-576d0637-8928-443c-b3d8-1f199410f65c@BLUJAYSOLUTIONSAMER_advantage>
+Subject: File null sent from BLUJAYSOLUTIONSAMER to advantage
+Mime-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg=sha-256;  boundary="----=_Part_3023_1602227747.1592088701937"
+AS2-To: BLUJAYSOLUTIONSAMER
+AS2-From: advantage
+AS2-Version: 1.1
+Connection: close, TE
+User-Agent: OpenAS2 Server v2.9.0
+Server: OpenAS2 Server v2.9.0
+Content-Length: 2174
+
+Attributes:
+FINAL_RECIPIENT: rfc822; advantage
+MIC: DOPK4rUFBDLRWo9/SPyKFuK2hAlX7P3/aGVi/cb0Pg8=, sha-256
+REPORTING_UA: OpenAS2 Server v2.9.0@/172.20.0.4:10080
+ORIGINAL_MESSAGE_ID: <1592088701530.11600571@i1QPnY19bDzSIZ1dqhDg5rQXVg==>
+ORIGINAL_RECIPIENT: rfc822; advantage
+DISPOSITION: automatic-action/MDN-sent-automatically; processed
+Text:
+The message sent to Recipient advantage on Sat, 13 Jun 2020 22:51:41 GMT with Subject null has been received, the EDI Interchange was successfully decrypted and it's integrity was verified. In addition, the sender of the message, Sender BLUJAYSOLUTIONSAMER at Location /74.120.102.5 was authenticated as the originator of the message. There is no guarantee however that the EDI Interchange was syntactically correct, or was received by the EDI application/translator.

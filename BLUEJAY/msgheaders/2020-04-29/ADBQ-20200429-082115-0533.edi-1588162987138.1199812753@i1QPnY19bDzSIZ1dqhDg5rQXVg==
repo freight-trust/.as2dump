@@ -1,0 +1,26 @@
+Headers:
+Content-Type: application/EDI-X12; name=ADBQ-20200429-082115-0533.edi
+Date: Wed, 29 Apr 2020 12:23:07 GMT
+From: support@blujaysolutions.com
+Message-Id: <1588162987138.1199812753@i1QPnY19bDzSIZ1dqhDg5rQXVg==>
+MIME-Version: 1.0
+Content-Transfer-Encoding: binary
+Content-Disposition: attachment; filename=ADBQ-20200429-082115-0533.edi
+Disposition-Notification-To: support@blujaysolutions.com
+Disposition-Notification-Options: signed-receipt-protocol=optional, pkcs7-signature; signed-receipt-micalg=optional, sha-256
+EDIINT-Features: CEM, multiple-attachments, AS2-Reliability
+AS2-Version: 1.2
+AS2-To: advantage
+AS2-From: BLUJAYSOLUTIONSAMER
+Content-Length: 5663
+User-Agent: Axway-Interchange/6.5.0 build-54152
+Host: as2.freighttrust.com:10080
+Connection: close
+
+Attributes:
+HTTP_REQUEST_TYPE: POST
+destination_ip: /172.20.0.4
+destination_port: 10080
+HTTP_REQUEST_URL: /
+source_port: 42158
+source_ip: /74.120.102.5

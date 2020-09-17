@@ -1,0 +1,24 @@
+Headers:
+Date: Tue, 26 May 2020 16:37:09 +0000
+From: as2@freighttrust.com
+Message-ID: <OPENAS2-26052020163709+0000-da468747-4757-4442-a998-2092041bb302@BLUJAYSOLUTIONSAMER_advantage>
+Subject: File null sent from BLUJAYSOLUTIONSAMER to advantage
+Mime-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg=sha-256;  boundary="----=_Part_1037_2004943038.1590511029726"
+AS2-To: BLUJAYSOLUTIONSAMER
+AS2-From: advantage
+AS2-Version: 1.1
+Connection: close, TE
+User-Agent: OpenAS2 Server v2.9.0
+Server: OpenAS2 Server v2.9.0
+Content-Length: 1813
+
+Attributes:
+FINAL_RECIPIENT: rfc822; advantage
+MIC: null
+REPORTING_UA: OpenAS2 Server v2.9.0@/172.20.0.4:10080
+ORIGINAL_MESSAGE_ID: <1590511025900.598511223@i1QPnY19bDzSIZ1eqhDg5rQXVg==>
+ORIGINAL_RECIPIENT: rfc822; advantage
+DISPOSITION: automatic-action/MDN-sent-automatically; processed/Error:decryption-failed
+Text:
+The message sent to Recipient advantage on Tue, 26 May 2020 16:37:06 GMT with Subject null has been received, but an error occured decrypting the content.
